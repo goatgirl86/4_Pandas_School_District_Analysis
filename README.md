@@ -39,7 +39,7 @@ The deliverables for this assignment were:
 
 ![image](https://user-images.githubusercontent.com/92705556/149685795-b8bfb4e7-5be3-489c-ade6-6b10d8eb8b1d.png)
 
-- I also did an “extra analysis of 9th grade math/reading schools by school size, type, and spending” for comparison purposes. Values for “Medium” school size, “Charter” type of school, and Spending in the range of “$630-644” decreased (see Screenshot below)
+  - I also did an “extra analysis of 9th grade math/reading schools by school size, type, and spending” for comparison purposes. Values for “Medium” school size, “Charter” type of school, and Spending in the range of “$630-644” decreased (see Screenshot below)
     
     ![image](https://user-images.githubusercontent.com/92705556/149685809-e5443a87-618e-4669-ade3-afea6e788b50.png)
     
