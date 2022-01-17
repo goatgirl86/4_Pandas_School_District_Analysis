@@ -1,7 +1,7 @@
 # School_District_Analysis
---------
-Related .ipynb file: PyCitySchools_Challenge.ipynb
---------
+
+* Related .ipynb file: PyCitySchools_Challenge.ipynb
+
 ## Project Overview
 
 ### Purpose
