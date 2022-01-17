@@ -15,7 +15,7 @@ The deliverables for this assignment were:
 
 ## Results 
 - How is the district summary affected?
-  -	After replacing 9th grade scores with NaN, outputs on the District Summary for “Average Math Score”, “Percent Passing Math”, “Percent Passing Reading”, and “Percent Overall Passing” decreased slightly (see Screenshot #1…original data on top, new/corrected data on bottom).
+  - After replacing 9th grade scores with NaN, outputs on the District Summary for “Average Math Score”, “Percent Passing Math”, “Percent Passing Reading”, and “Percent Overall Passing” decreased slightly (see Screenshot #1…original data on top, new/corrected data on bottom).
 	 
 -	How is the school summary affected?
   -	The only change in the in the School Summary was that Thomas High School’s values decreased slightly due to the fact that the 9th graders falsified ‘good’ grades were removed from the dataset (see Screenshot #2…original data on top, new/corrected data on bottom).
